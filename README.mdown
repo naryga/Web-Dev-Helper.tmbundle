@@ -1,0 +1,17 @@
+# Web Dev Helper TextMate bundle
+
+This is a [TextMate](http://macromates.com) Bundle that I've put some generally helpful snippets of code in.  These are things that I've found useful in my web dev work, like:
+
+* Simple PHP debug output scripts
+* rapidly setup vhosts that work in the default mac os x apache install
+* Add host file entries.
+
+Drop me a line if you find it helpful
+
+-- 
+Nathan Garza	
+personal:	
+[Garza!incredible](http://garzaincredible.com)	
+business:	
+[5 on Fire](http://5onfire.com)		
+[WordPress HelpCenter](http://wphelpcenter.com)	
