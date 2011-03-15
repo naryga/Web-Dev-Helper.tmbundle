@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:127.0.0.1}	${2:site}${3:.${4:dev}}
+$5</string>
+	<key>name</key>
+	<string>add host file entry</string>
+	<key>tabTrigger</key>
+	<string>host</string>
+	<key>uuid</key>
+	<string>20A3817B-0EB2-4EFC-A51F-7D92D2B64339</string>
+</dict>
+</plist>

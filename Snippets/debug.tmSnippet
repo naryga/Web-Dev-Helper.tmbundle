@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>echo '&lt;h1&gt;${1:var_to_be_tested}&lt;/h1&gt;&lt;pre&gt;'.print_r(\$${2:$1},${3:TRUE}).'&lt;/pre&gt;';</string>
+	<key>name</key>
+	<string>debug</string>
+	<key>tabTrigger</key>
+	<string>debug</string>
+	<key>uuid</key>
+	<string>D0E71063-2B00-41DA-9A3E-4A66CAF131CA</string>
+</dict>
+</plist>

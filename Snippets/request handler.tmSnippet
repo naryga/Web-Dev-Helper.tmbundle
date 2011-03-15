@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>function ${1}(){
+       if (isset(\$_POST['${2:request variable}'])) {
+               switch (\$_POST['${2}']) {
+                       default:
+                               break;
+               }
+       }
+       else if (isset(\$_GET['${2}'])) {
+               switch (\$_GET['${2}']) {
+                       default:
+                               break;
+               }
+       }
+}
+add_action('init', '${1:request_handler_function}');</string>
+	<key>name</key>
+	<string>request handler</string>
+	<key>tabTrigger</key>
+	<string>requesth</string>
+	<key>uuid</key>
+	<string>E6FDD4BB-F291-4988-B230-74CE45BB9400</string>
+</dict>
+</plist>
