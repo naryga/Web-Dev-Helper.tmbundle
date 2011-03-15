@@ -1,5 +1,7 @@
 # Web Dev Helper TextMate bundle
 
+* Version: 0.25
+
 This is a [TextMate](http://macromates.com) Bundle that I've put some generally helpful snippets of code in.  These are things that I've found useful in my web dev work, like:
 
 * Simple PHP debug output scripts
