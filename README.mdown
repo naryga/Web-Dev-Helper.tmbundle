@@ -11,9 +11,4 @@ This is a [TextMate](http://macromates.com) Bundle that I've put some generally 
 Drop me a line if you find it helpful
 
 -- 
-Nathan Garza	
-personal:	
-[Garza!incredible](http://garzaincredible.com)	
-business:	
-[5 on Fire](http://5onfire.com)		
-[WordPress HelpCenter](http://wphelpcenter.com)	
+Nathan Garza
